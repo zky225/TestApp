@@ -1,0 +1,1768 @@
+# Translation of Themes - Vilva in Chinese (China)
+# This file is distributed under the same license as the Themes - Vilva package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-16 07:10:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Vilva\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Vilva"
+msgstr "Vilva"
+
+#: template-parts/content-none.php:68
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#: template-parts/content-none.php:62
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:47
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:29
+msgid "Your blog posts are displayed in the slider. To display blog post here, <a href=\"%1$s\">please publish more blog posts.</a>"
+msgstr "你的博文会在滑块中显示。 若想在此显示博文， <a href=\"%1$s\">请发布更多博文</a>"
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: template-parts/content-none.php:15
+msgid "Add More Posts"
+msgstr "添加文章"
+
+#: build/dashboard.js:9421 src/components/TabHeader/index.jsx:17
+msgid "Contact Support"
+msgstr "联系技术支持"
+
+#: build/dashboard.js:9578 src/pages/FAQ/index.jsx:26
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr "然而，由于专业版拥有更多功能以及设置，你必须在个性化设置里设置这些附加功能。整个操作过程非常简单，仅需几分钟。"
+
+#: build/dashboard.js:9578 src/pages/FAQ/index.jsx:25
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr "当你升级专业版，你的文章，页面，媒体库，分类以及其他数据都将被保留 -- 不会丢失任何数据。"
+
+#: build/dashboard.js:9577 src/pages/FAQ/index.jsx:22
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "升级专业版会不会丢失以前的更改？"
+
+#: build/dashboard.js:9575 src/pages/FAQ/index.jsx:19
+msgid "With Premium version, besides the extra features and frequent updates, you get premium support. If you run into any theme issues, you will get a lot quicker response compared to the free support."
+msgstr "用付费版本，除了附加功能以及频繁的更新之外，你还会得到优先的客服待遇。如果主题出现任何问题，回复你的速度会比免费版的用户快很多。"
+
+#: build/dashboard.js:9574 src/pages/FAQ/index.jsx:18
+msgid "What are the advantages of upgrading to the Premium version?"
+msgstr "升级付费版本有哪些好处？"
+
+#: build/dashboard.js:9568 src/pages/FAQ/index.jsx:12
+msgid "With the Pro version, you can change the look and feel of your website in seconds. In just a few clicks, you can change the color and typography of your website. The premium version lets you have better control over the theme as it comes with more customization options. Not just that, the theme also has more sections and layout options as compared to the free version. The Pro version is multi-language compatible as well."
+msgstr "使用Pro专业版可瞬间改变自己网站的外观及风格。轻松点击，即可改变你网站的字体和色调。使用豪华版本，你可以更好的控制主题因素，挑选更多的个性化选项。不仅如此，该主题的豪华版本比免费版本拥有更多板块以及版面审计模版可供你选择。Pro专业版也支持多国语言。"
+
+#: build/dashboard.js:9568 src/pages/FAQ/index.jsx:11
+msgid "Both Free and Pro version of the themes are well-built. However, the Pro version comes with many additional features."
+msgstr "免费版与专业版主题都非常精美。然而专业版拥有许多附加功能。"
+
+#: build/dashboard.js:9567 src/pages/FAQ/index.jsx:8
+msgid "What is the difference between Free and Pro?"
+msgstr "免费和专业版的区别在哪里？"
+
+#: inc/tgmpa/recommended-plugins.php:71 build/dashboard.js:10059
+#: src/pages/UsefulPlugins/index.jsx:27
+msgid "Regenerate Thumbnails"
+msgstr "重新生成缩略图"
+
+#: inc/tgmpa/recommended-plugins.php:56 build/dashboard.js:10051
+#: src/pages/UsefulPlugins/index.jsx:17
+msgid "BlossomThemes Email Newsletter"
+msgstr "花团主题电邮简报"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr "插件激活失败。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr "当前无可激活插件。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "未选中插件激活。无动作进行。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr "现在没有需要更新的插件。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr "当前无可安装插件。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "未选中插件更新。无动作进行。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "未选中插件安装。无动作进行。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2876 build/dashboard.js:10199
+#: src/pages/UsefulPlugins/index.jsx:181
+msgid "Activate"
+msgstr "激活"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr "更新"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2867 build/dashboard.js:10193
+#: src/pages/UsefulPlugins/index.jsx:171
+msgid "Install"
+msgstr "安装"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr "来自插件制作者的升级信息。"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr "激活%2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr "更新%2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2751
+msgid "Install %2$s"
+msgstr "安装%2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr "状态"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr "需要更新"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr "所需的更新不可用"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr "激活"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr "已安装但未激活"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr "未安装"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr "预打包"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr "外部来源"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr "WordPress 库"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr "推荐"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr "必填"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:2112
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1243
+#: inc/tgmpa/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "和"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "远程插件安装包中含有多个文件，这些文件不在一个文件夹中。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "请联系该插件提供者，请他们根据WordPress指导打包插件。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "远程插件安装包中未包含所需slug的文件，重命名无效。"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:378
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下推荐的插件当前处于未启用状态：%1$s。"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:372
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下所需的插件目前处于未启用状态：%1$s。"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "以下插件有可用的更新： %1$s。"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "以下插件需要更新为最新版本，以确保与此主题的最大兼容性：%1$s。"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "此主题推荐安装以下插件：%1$s。"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "此主题必须安装以下插件：%1$s。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr "插件API出了点问题。"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr "正在更新插件：%s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:343
+msgid "Installing Plugin: %s"
+msgstr "正在安装插件：%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr "安装需要插件"
+
+#: inc/extras.php:1125
+msgid "Search Page"
+msgstr "搜索页面"
+
+#: inc/extras.php:962
+msgid "Choose Category"
+msgstr "选择分类"
+
+#: inc/extras.php:807
+msgid "%1$s at %2$s"
+msgstr "日期 %1$s，时间 %2$s"
+
+#: build/dashboard.js:9578 src/pages/FAQ/index.jsx:27
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr "由于将来专业版本的更新频率会比免费版本更高，它会与免费版本存在一些细微的区别，但是它非常灵活，易于使用。"
+
+#: inc/tgmpa/recommended-plugins.php:51 build/dashboard.js:10047
+#: src/pages/UsefulPlugins/index.jsx:12
+msgid "BlossomThemes Toolkit"
+msgstr "花团主题工具箱"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3677
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安装插件 %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr "所有安装均已完成。"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr "%1$s 安装成功"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3672
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "安装过程即将开始。这个过程可能会持续一段时间，请保持耐心。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3669
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安装和激活插件%1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr "所有安装和激活均已完成。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr "隐藏详细信息"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr "显示详情"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr "安装并激活%1$s成功。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3664
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "安装和激活过程即将开始。这个过程可能会持续一段时间，请保持耐心。"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3660
+msgid "The installation of %1$s failed."
+msgstr "%1$s 安装失败"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3658
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安装%1$s时发生错误：<strong>%2$s</strong>。"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s，%2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr "建议更新"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr "必需更新"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "该插件需要更新，以便与您的主题相兼容。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr "请联系本网站管理员寻求帮助。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:409
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "至少有一个必需或推荐的插件来安装，更新或激活。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr "关闭此通知"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:407
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有插件均被成功安装并激活。%1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:405
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "插件未激活。本主题需要更高版本的%s。请更新插件。 "
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:403
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "未采取操作。插件 %1$s 已经启用。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:401
+#: inc/tgmpa/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "下列插件成功激活："
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:400
+#: inc/tgmpa/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr "插件已成功激活。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr "返回仪表盘"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr "返回所需插件的安装页面。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "开始激活插件"
+
+#. translators: %s: post title
+#: inc/extras.php:78
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "对“<span class=\"screen-reader-text\">%s</span>”作出评论"
+
+#. translators: %s: post author.
+#: inc/extras.php:57
+msgctxt "post author"
+msgid "by %s"
+msgstr "由%s"
+
+#: inc/custom-controls/typography/class-fonts.php:144
+msgctxt "font style"
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/custom-controls/typography/class-fonts.php:140
+msgctxt "font style"
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/custom-controls/typography/class-fonts.php:136
+msgctxt "font style"
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:132
+msgctxt "font style"
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:128
+msgctxt "font style"
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:124
+msgctxt "font style"
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/custom-controls/typography/class-fonts.php:120
+msgctxt "font style"
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/custom-controls/typography/class-fonts.php:116
+msgctxt "font style"
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/custom-controls/typography/class-fonts.php:112
+msgctxt "font style"
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: inc/custom-controls/typography/class-fonts.php:108
+msgctxt "font style"
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:104
+msgctxt "font style"
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: build/dashboard.js:9602 src/pages/FAQ/index.jsx:53
+msgid "Also, you might experience a slower response time during the weekend, so please bear with us."
+msgstr "另外，周末期间的回复时间可能会慢些，请多多包涵。"
+
+#: build/dashboard.js:9599 src/pages/FAQ/index.jsx:51
+msgid "Before you send us a support ticket for any issues, please make sure you have updated the theme to the latest version. We might have fixed the bug in the theme update."
+msgstr "无论任何问题，请你提交客服号之前先确认自己用的是主题的最新版本。我们可能在新版本里已经解决该问题了。"
+
+#: build/dashboard.js:9598 src/pages/FAQ/index.jsx:48
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "怎么能更快解决我的问题，得到帮助？"
+
+#: build/dashboard.js:9588 src/pages/FAQ/index.jsx:41
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr "如果个性化设置没有办法加载，或是你在使用主题的过程中遇到麻烦，可能存在插件不兼容的问题。"
+
+#: build/dashboard.js:9587 src/pages/FAQ/index.jsx:38
+msgid "Why is my theme not working well?"
+msgstr "为什么我的主题不好用了？"
+
+#: build/dashboard.js:9580 src/pages/FAQ/index.jsx:32
+msgid "How do I change the copyright text?"
+msgstr "怎么修改版权文本？"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr "版本"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr "类型"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr "来源"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr "插件"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr "无插件需要安装、更新或激活。"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr "可用版本："
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr "最低需要版本："
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr "已安装版本"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "未知"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "激活 <span class=\"count\">(%s)</span>"
+
+#: inc/extras.php:761
+msgid "404 Error - Page Not Found"
+msgstr "404 错误 - 页面没找到"
+
+#: inc/extras.php:713
+msgid "Page %s"
+msgstr "第%s页"
+
+#: inc/extras.php:592
+msgid "d"
+msgstr "天"
+
+#: inc/extras.php:590 inc/extras.php:599
+msgid "F"
+msgstr "五"
+
+#: inc/extras.php:800
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "可供更新<span class=\"count\">（%s）</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2540
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "安装<span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "全部 <span class=\"count\">(%s)</span>"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "开始更新插件"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "开始安装插件"
+
+#: inc/extras.php:1126
+msgid "Search Results For: "
+msgstr "搜索结果： "
+
+#: inc/extras.php:590 inc/extras.php:592 inc/extras.php:599
+msgid "m"
+msgstr "分钟"
+
+#: inc/extras.php:583
+msgid "Search Results for \""
+msgstr "针对以下查询的搜索结果："
+
+#: inc/extras.php:331 inc/extras.php:377
+msgid "Click here to add a menu"
+msgstr "点击此处添加菜单"
+
+#: inc/extras.php:309 inc/extras.php:355
+msgid "Mobile"
+msgstr "手机"
+
+#: inc/custom-controls/typography/class-fonts.php:100
+msgctxt "font style"
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/custom-controls/typography/class-fonts.php:96
+msgctxt "font style"
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/custom-controls/typography/class-typography-control.php:109
+msgid "Invalid Value"
+msgstr "无效值"
+
+#: inc/custom-controls/typography/class-fonts.php:200
+#: inc/custom-controls/typography/class-typography-control.php:108
+msgid "Ultra-Bold 900 Italic"
+msgstr "超粗 900 斜体"
+
+#: inc/custom-controls/typography/class-fonts.php:199
+#: inc/custom-controls/typography/class-typography-control.php:107
+msgid "Ultra-Bold 900"
+msgstr " 超粗 900"
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#. translators: 1: comment count number.
+#: comments.php:31
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s条评论"
+
+#: single-blossom-portfolio.php:42
+msgid "Related Projects"
+msgstr "相关项目"
+
+#: inc/typography.php:365
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/typography.php:364
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/typography.php:363
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/typography.php:362
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: inc/typography.php:361
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/typography.php:360
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/typography.php:359
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/typography.php:358
+msgid "Georgia"
+msgstr "Georgia"
+
+#: 404.php:20
+msgid "Take me to the home page"
+msgstr "带我去首页"
+
+#: 404.php:19
+msgid "404"
+msgstr "404"
+
+#: 404.php:18
+msgid "The page you are looking for may have been moved, deleted, or possibly never existed."
+msgstr "您所查找的网页可能被移走，删除，抑或是根本没有存在过。"
+
+#: 404.php:15
+msgid "Uh-Oh..."
+msgstr "糟糕！"
+
+#: inc/customizer/general.php:299 inc/partials.php:49
+#: inc/template-functions.php:110
+msgid "Find Your Best Holiday"
+msgstr "找到你最好的假期"
+
+#: inc/customizer/general.php:872 inc/extras.php:153 inc/partials.php:40
+msgid "Recommended Articles"
+msgstr "推荐文章"
+
+#: inc/customizer/general.php:349 inc/customizer/general.php:786
+#: inc/partials.php:31 inc/partials.php:67 inc/template-functions.php:112
+#: inc/template-functions.php:518
+msgid "Read More"
+msgstr "阅读更多"
+
+#: inc/metabox.php:75
+msgid "Choose Sidebar Template"
+msgstr "请选择侧栏模版"
+
+#: inc/metabox.php:62
+msgid "Right Sidebar"
+msgstr "右侧栏"
+
+#: inc/metabox.php:57
+msgid "Left Sidebar"
+msgstr "边栏在左侧"
+
+#: inc/metabox.php:52
+msgid "Full Width Centered"
+msgstr "全宽居中"
+
+#: inc/metabox.php:47
+msgid "Full Width"
+msgstr "全宽"
+
+#: inc/metabox.php:42 inc/widgets.php:14
+msgid "Default Sidebar"
+msgstr "默认侧边栏"
+
+#: inc/metabox.php:17 inc/metabox.php:27
+msgid "Sidebar Layout"
+msgstr "侧边栏布局"
+
+#: inc/typography.php:370
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/typography.php:369
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/typography.php:368
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/typography.php:367
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/typography.php:366
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/custom-functions.php:387
+msgid "Looking for Something?"
+msgstr "找什么东西吗?"
+
+#: inc/custom-functions.php:384
+msgctxt "placeholder"
+msgid "Try searching for what you were looking for&hellip;"
+msgstr "请输入你想查找的搜索对象&hellip;"
+
+#: inc/custom-functions.php:349
+msgid "Comment"
+msgstr "条评论"
+
+#: inc/custom-functions.php:336
+msgid "Website"
+msgstr "站点"
+
+#: inc/custom-functions.php:334
+msgid "Email*"
+msgstr "电子邮件*"
+
+#: inc/custom-functions.php:334
+msgid "Email"
+msgstr "电子邮件"
+
+#: inc/custom-functions.php:332
+msgid "Name*"
+msgstr "名字*"
+
+#: inc/custom-functions.php:332
+msgid "Name"
+msgstr "名字"
+
+#: inc/custom-functions.php:46
+msgid "Secondary"
+msgstr "次要"
+
+#: inc/custom-functions.php:45
+msgid "Primary"
+msgstr "主要"
+
+#: inc/partials.php:85
+msgid "All Rights Reserved. "
+msgstr "版权所有"
+
+#: inc/extras.php:588 inc/extras.php:590 inc/extras.php:592 inc/extras.php:597
+#: inc/extras.php:599 inc/extras.php:604 inc/partials.php:83
+msgid "Y"
+msgstr "Y年"
+
+#: inc/partials.php:82
+msgid "&copy; Copyright "
+msgstr "&copy; 版权"
+
+#: inc/customizer/general.php:324 inc/partials.php:58
+#: inc/template-functions.php:111
+msgid "Find great adventure holidays and activities around the planet."
+msgstr "寻找地球上伟大的冒险假期和活动。"
+
+#: inc/custom-functions.php:705
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "%1$s 已安装可用。点击下方链接可查看使用手册，查找可安装的插件以及其他信息。"
+
+#: inc/custom-functions.php:704
+msgid "Congratulations!"
+msgstr "恭喜！"
+
+#: inc/custom-functions.php:458
+msgid "%1$sArchives%2$s"
+msgstr "%1$s档案室%2$s"
+
+#: inc/custom-functions.php:455
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/custom-functions.php:448
+msgid "%1$s Archives: %2$s %3$s"
+msgstr "%1$s 档案室 %2$s %3$s"
+
+#: inc/custom-functions.php:442
+msgid "%1$s Day: %2$s %3$s"
+msgstr "%1$s 日 %2$s %3$s"
+
+#: inc/custom-functions.php:440 inc/custom-functions.php:442
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: inc/custom-functions.php:436
+msgid "%1$s Month: %2$s %3$s"
+msgstr "%1$s 月 %2$s %3$s"
+
+#: inc/custom-functions.php:434 inc/custom-functions.php:436
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: inc/custom-functions.php:430
+msgid "%1$s Year: %2$s %3$s"
+msgstr "%1$s 年 %2$s %3$s"
+
+#: inc/custom-functions.php:428 inc/custom-functions.php:430
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: inc/custom-functions.php:422
+msgid "%1$s Tag: %2$s %3$s"
+msgstr "%1$s 标签 %2$s %3$s"
+
+#: inc/custom-functions.php:416
+msgid "%1$s Category: %2$s %3$s"
+msgstr "%1$s 分类 %2$s %3$s"
+
+#: inc/custom-functions.php:391
+msgctxt "submit button"
+msgid "Search"
+msgstr "搜索"
+
+#: inc/customizer/layout.php:15 build/dashboard.js:9736
+#: src/pages/Home/index.jsx:20
+msgid "Layout Settings"
+msgstr "布局设置"
+
+#: inc/customizer/footer.php:32
+msgid "Footer Copyright Text"
+msgstr "页尾版权说明"
+
+#: inc/customizer/footer.php:13 build/dashboard.js:9757
+#: src/pages/Home/index.jsx:38
+msgid "Footer Settings"
+msgstr "页脚设置"
+
+#: inc/customizer/site.php:112
+msgid "Site Title color of the theme."
+msgstr "主题的站点标题颜色。"
+
+#: inc/customizer/site.php:111
+msgid "Site Title Color"
+msgstr "站点标题颜色"
+
+#: inc/customizer/site.php:86
+msgid "Change the font size of your site title."
+msgstr "更改您的网站标题的字体大小。"
+
+#: inc/customizer/site.php:85
+msgid "Site Title Font Size"
+msgstr "网站标题字体大小"
+
+#: inc/customizer/site.php:44
+msgid "Site title and tagline font."
+msgstr "网站标题和标语字体。"
+
+#: inc/customizer/site.php:43
+msgid "Site Title Font"
+msgstr "网站标题字体"
+
+#: inc/woocommerce-functions.php:147
+msgid "View Cart"
+msgstr "查看购物车"
+
+#: inc/woocommerce-functions.php:103 inc/woocommerce-functions.php:121
+msgid "View your shopping cart"
+msgstr "查看您的购物车"
+
+#: inc/woocommerce-functions.php:41
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "侧栏仅显示于WOOCOMMERCE页面。"
+
+#: inc/woocommerce-functions.php:39
+msgid "Shop Sidebar"
+msgstr "商店侧栏"
+
+#: inc/custom-functions.php:707
+msgid "Dismiss"
+msgstr "关闭"
+
+#: inc/customizer/appearance.php:90
+msgid "Secondary font of the site."
+msgstr "网站次要字体"
+
+#: inc/customizer/appearance.php:89
+msgid "Secondary Font"
+msgstr "次要字体"
+
+#: inc/customizer/appearance.php:68
+msgid "Primary font of the site."
+msgstr "网站主要字体"
+
+#: inc/customizer/appearance.php:67
+msgid "Primary Font"
+msgstr "主要字体"
+
+#: inc/customizer/appearance.php:36
+msgid "Primary color of the theme."
+msgstr "主题主色调"
+
+#: inc/customizer/appearance.php:35
+msgid "Primary Color"
+msgstr "主颜色"
+
+#: inc/customizer/appearance.php:17
+msgid "Customize Typography, Header Image & Background Image"
+msgstr "自行选择字体、顶部图像以及背景图像"
+
+#: inc/customizer/appearance.php:16
+msgid "Appearance Settings"
+msgstr "外观选项"
+
+#: inc/customizer/layout.php:489
+msgid "This is the general sidebar layout for whole site."
+msgstr "这是整个网站通用的侧栏布局。"
+
+#: inc/customizer/layout.php:488
+msgid "Default Sidebar Layout"
+msgstr "默认侧栏布局"
+
+#: inc/customizer/layout.php:462
+msgid "This is the general sidebar layout for posts & custom post. You can override the sidebar layout for individual post in respective post."
+msgstr "这是文章和自定义文章的通用边栏布局。 相应文章中单个文章的侧边栏布局可覆盖该设置。"
+
+#: inc/customizer/layout.php:461
+msgid "Post Sidebar Layout"
+msgstr "博文侧栏"
+
+#: inc/customizer/layout.php:435
+msgid "This is the general sidebar layout for pages. You can override the sidebar layout for individual page in respective page."
+msgstr "这是用于页面的通用侧栏布局设置。单独页面的侧栏布局设置可覆盖该设置"
+
+#: inc/customizer/layout.php:434
+msgid "Page Sidebar Layout"
+msgstr "页面侧栏布局"
+
+#: inc/customizer/general.php:174
+msgid "Number of Slides"
+msgstr "幻灯片数量"
+
+#: inc/customizer/general.php:151
+msgid "Slider Category"
+msgstr "滑块分类"
+
+#: inc/customizer/general.php:1268
+msgid "Category"
+msgstr "类别"
+
+#: inc/customizer/general.php:1267 inc/extras.php:143
+msgid "Latest Posts"
+msgstr "最新文章"
+
+#: inc/customizer/general.php:129
+msgid "Slider Content Style"
+msgstr "滑块内容风格"
+
+#: inc/customizer/general.php:108
+msgid "Banner as Slider"
+msgstr "滑块式横幅"
+
+#: inc/customizer/general.php:107
+msgid "Static/Video Banner"
+msgstr "静态/视频 横幅"
+
+#: inc/customizer/general.php:106
+msgid "Disable Banner Section"
+msgstr "关闭横幅板块"
+
+#: inc/customizer/general.php:103
+msgid "Choose banner as static image/video or as a slider."
+msgstr "横幅可选静态图像/视频或滑块。"
+
+#: inc/customizer/general.php:102
+msgid "Banner Options"
+msgstr "横幅选项"
+
+#: inc/customizer/general.php:78
+msgid "Banner Section"
+msgstr "横幅板块"
+
+#: inc/customizer/general.php:17
+msgid "Customize Banner, Featured, Social, Sharing, SEO, Post/Page, Newsletter & Instagram, Shop, Performance and Miscellaneous settings."
+msgstr "对横幅、精选、社交媒体、分享、搜搜引擎优化、文章/页面、简报以及INS、网店、性能以及其他设置进行个性化。"
+
+#: inc/customizer/general.php:16 build/dashboard.js:9750
+#: src/pages/Home/index.jsx:32
+msgid "General Settings"
+msgstr "常规设置"
+
+#: inc/customizer/appearance.php:113
+msgid "Change the font size of your site."
+msgstr "更改网站的字体大小。"
+
+#: inc/custom-controls/typography/class-typography-control.php:68
+#: inc/customizer/appearance.php:112
+msgid "Font Size"
+msgstr "字体大小"
+
+#: inc/customizer/general.php:531
+msgid "Enable Social Links"
+msgstr "启用社交媒体链接"
+
+#: inc/customizer/general.php:510
+msgid "Social Media Settings"
+msgstr "社交媒体链接设置"
+
+#: inc/customizer/general.php:382
+msgid "Banner Button Link"
+msgstr "横幅按钮链接"
+
+#: inc/customizer/general.php:358
+msgid "Banner Button Label"
+msgstr "横幅按钮标签"
+
+#: inc/customizer/general.php:333
+msgid "Sub Title"
+msgstr "副标题"
+
+#: inc/customizer/general.php:308
+msgid "Title"
+msgstr "标签"
+
+#: inc/customizer/general.php:223
+msgid "Enable slider auto transition."
+msgstr "启用滑块自动过度动画。"
+
+#: inc/customizer/general.php:222
+msgid "Slider Auto"
+msgstr "自动滑块"
+
+#: inc/customizer/general.php:175
+msgid "Choose the number of slides you want to display"
+msgstr "选择所展示的幻灯片数量"
+
+#: inc/customizer/general.php:708
+msgid "Posts(Blog) & Pages Settings"
+msgstr "文章 (博文) 以及页面设置"
+
+#: inc/customizer/general.php:699
+msgid "Breadcrumb Home Text"
+msgstr "首页面包屑导航显示文本"
+
+#: inc/customizer/general.php:689 inc/extras.php:391 build/dashboard.js:10245
+#: src/pages/index.js:16
+msgid "Home"
+msgstr "主页"
+
+#: inc/customizer/general.php:680
+msgid "Enable to show breadcrumb in inner pages."
+msgstr "选中可在页内启用面包屑导航。"
+
+#: inc/customizer/general.php:679
+msgid "Enable Breadcrumb"
+msgstr "启用面包屑导航"
+
+#: inc/customizer/general.php:659
+msgid "Enable to show last updated post date on listing as well as in single post."
+msgstr "选中可在列表以及单独的页面上显示最新更新文章的日期。"
+
+#: inc/customizer/general.php:658
+msgid "Enable Last Update Post Date"
+msgstr "启用最新更新文章发布日期"
+
+#: inc/customizer/general.php:637
+msgid "SEO Settings"
+msgstr "搜索引擎优化设置"
+
+#: inc/customizer/general.php:569
+msgid "links"
+msgstr "链接"
+
+#: inc/customizer/general.php:564
+msgid "Example: https://facebook.com"
+msgstr "如: https://facebook.com"
+
+#: inc/customizer/general.php:563
+msgid "Link"
+msgstr "链接"
+
+#: inc/customizer/general.php:559
+msgid "Example: fab fa-facebook-f"
+msgstr "如: fab fa-facebook-f"
+
+#: inc/customizer/general.php:558
+msgid "Font Awesome Icon"
+msgstr "Font Awesome 图标"
+
+#: inc/customizer/general.php:554
+msgid "Social Links"
+msgstr "社交链接"
+
+#: inc/customizer/general.php:532
+msgid "Enable to show social links at header and footer."
+msgstr "选中可在页眉，页尾处显示社交媒体链接。"
+
+#: inc/customizer/general.php:909
+msgid "Enable to show Comments in Single Post/Page."
+msgstr "选中可在单个文章/页面中显示评论。"
+
+#: inc/customizer/general.php:908
+msgid "Show Comments"
+msgstr "显示评论"
+
+#: inc/customizer/general.php:883
+msgid "Related Posts Section Title"
+msgstr "相关文章板块标题"
+
+#: inc/customizer/general.php:863
+msgid "Enable to show related posts in single page."
+msgstr "选中可在同一页面上显示相关博文。"
+
+#: inc/customizer/general.php:862
+msgid "Show Related Posts"
+msgstr "显示相关文章"
+
+#: inc/customizer/general.php:821
+msgid "%s These options affect your individual posts."
+msgstr "%s 这些选项会影响你个人的博文。"
+
+#: inc/customizer/general.php:797
+msgid "Read More Text"
+msgstr "阅读更多内容"
+
+#: inc/customizer/general.php:772
+msgid "Automatically generated excerpt length (in words)."
+msgstr "根据字数自动生成内容摘要。"
+
+#: inc/customizer/general.php:771
+msgid "Excerpt Length"
+msgstr "内容摘要字数"
+
+#: inc/customizer/general.php:751
+msgid "Enable to show excerpt or disable to show full post content."
+msgstr "选中显示内容摘要，关闭显示博文全部内容。"
+
+#: inc/customizer/general.php:750
+msgid "Enable Blog Excerpt"
+msgstr "启用内容摘要"
+
+#: inc/customizer/general.php:730
+msgid "Enable to hide prefix in archive page."
+msgstr "选中可在档案室里隐藏前缀"
+
+#: inc/customizer/general.php:729
+msgid "Hide Prefix in Archive Page"
+msgstr "档案室里隐藏前缀"
+
+#: inc/customizer/general.php:1100
+msgid "Enable to show Instagram Section"
+msgstr "选中可显示INSTAGRAM板块"
+
+#: inc/customizer/general.php:1099
+msgid "Instagram Section"
+msgstr "INSTAGRAM板块"
+
+#: inc/customizer/general.php:1078 build/dashboard.js:9743
+#: src/pages/Home/index.jsx:26
+msgid "Instagram Settings"
+msgstr "INSTAGRAM设置"
+
+#: inc/customizer/general.php:1066
+msgid "Please install and activate the recommended plugin %1$sBlossomThemes Email Newsletter%2$s. After that option related with this section will be visible."
+msgstr "请安装并激活推荐的插件%1$s花团主题电邮简报%2$s。之后，与本节相关的选项将可见。"
+
+#: inc/customizer/general.php:1047
+msgid "Enter the BlossomThemes Email Newsletters Shortcode. Ex. [BTEN id=\"356\"]"
+msgstr "请输入花团主题电邮简报短码。如 [BTEN id=\"356\"]"
+
+#: inc/customizer/general.php:1046
+msgid "Newsletter Shortcode"
+msgstr "简报短码"
+
+#: inc/customizer/general.php:1026
+msgid "Enable to show Newsletter Section"
+msgstr "选中可显示简报板块"
+
+#: inc/customizer/general.php:1025
+msgid "Newsletter Section"
+msgstr "简报板块"
+
+#: inc/customizer/general.php:1004
+msgid "Newsletter Settings"
+msgstr "简报设置"
+
+#: inc/customizer/general.php:972
+msgid "Enable to hide posted date."
+msgstr "选中可隐藏发布日期。"
+
+#: inc/customizer/general.php:971
+msgid "Hide Posted Date"
+msgstr "隐藏发布日期"
+
+#: inc/customizer/general.php:951
+msgid "Enable to hide post author."
+msgstr "选中可隐藏发文章作者。"
+
+#: inc/customizer/general.php:950
+msgid "Hide Post Author"
+msgstr "隐藏文章作者"
+
+#: inc/customizer/general.php:930
+msgid "Enable to hide category."
+msgstr "启用隐藏分类"
+
+#: inc/customizer/general.php:929
+msgid "Hide Category"
+msgstr "隐藏分类"
+
+#: inc/customizer/info.php:14
+msgid "Demo & Documentation"
+msgstr "演示以及使用说明"
+
+#: inc/customizer/general.php:1251
+msgid "Enable to display search form in header."
+msgstr "启用可在页眉显示搜索栏。"
+
+#: inc/customizer/general.php:1250
+msgid "Header Search"
+msgstr "顶部搜索"
+
+#: inc/customizer/general.php:1229
+msgid "Misc Settings"
+msgstr "杂项设置"
+
+#: inc/customizer/general.php:1217
+msgid "Enable to show Shop Page Description."
+msgstr "开启显示商店页描述。"
+
+#: inc/customizer/general.php:1216
+msgid "Shop Page Description"
+msgstr "商店页描述"
+
+#: inc/customizer/general.php:1193
+msgid "Shop Background Image"
+msgstr "商店的背景图像"
+
+#: inc/customizer/general.php:1174
+msgid "Enable to show Shopping cart in the header."
+msgstr "选中可在页头显示购物车。"
+
+#: inc/customizer/general.php:1173
+msgid "Shopping Cart"
+msgstr "购物车"
+
+#: inc/customizer/general.php:1151
+msgid "Shop Settings"
+msgstr "商店设置"
+
+#: inc/widgets.php:37
+msgid "Footer Four"
+msgstr "页尾四"
+
+#: inc/widgets.php:32
+msgid "Footer Three"
+msgstr "页尾三"
+
+#: inc/widgets.php:27
+msgid "Footer Two"
+msgstr "页尾二"
+
+#: inc/widgets.php:22
+msgid "Footer One"
+msgstr "页尾一"
+
+#: inc/widgets.php:12
+msgid "Sidebar"
+msgstr "边栏"
+
+#: inc/customizer/info.php:130
+msgid "VIEW PRO THEME"
+msgstr "查看专业主题"
+
+#: inc/customizer/info.php:128
+msgid "Pro Available"
+msgstr "可升级专业版"
+
+#: inc/customizer/info.php:29
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "使用手册链接：: %1$s点击这里%2$s"
+
+#: inc/customizer/info.php:27
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "演示链接: %1$s点击这里%2$s"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:83
+msgid "Add new %s"
+msgstr "添加新的%s"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:75
+msgid "row"
+msgstr "列"
+
+#: inc/template-functions.php:788
+msgid " Powered by %s. "
+msgstr "由%s驱动"
+
+#: inc/template-functions.php:602
+msgid "Page"
+msgstr "网页"
+
+#: inc/template-functions.php:601
+msgid "Next"
+msgstr "下一个"
+
+#: inc/template-functions.php:600
+msgid "Previous"
+msgstr "先前"
+
+#: inc/template-functions.php:586
+msgid "Next Article"
+msgstr "下一篇"
+
+#: inc/template-functions.php:574
+msgid "Previous Article"
+msgstr "上一篇"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-functions.php:536
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "编辑<span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-functions.php:496
+msgid "Pages:"
+msgstr "页码："
+
+#: inc/template-functions.php:318
+msgid "%1$s Showing:  %2$s - %3$s of %4$s RESULTS %5$s"
+msgstr "%1$s 正在显示:  %2$s - %3$s 的%4$s 搜索结果 %5$s"
+
+#: inc/template-functions.php:39
+msgid "Skip to Content"
+msgstr "跳至内容"
+
+#: inc/custom-controls/typography/class-typography-control.php:50
+msgid "Devanagari"
+msgstr "梵文"
+
+#: inc/custom-controls/typography/class-typography-control.php:49
+msgid "Cyrillic Extended"
+msgstr "西里尔文（扩展）"
+
+#: inc/custom-controls/typography/class-typography-control.php:48
+msgid "Cyrillic"
+msgstr "西里尔文"
+
+#: inc/custom-controls/typography/class-typography-control.php:47
+msgid "All"
+msgstr "全部"
+
+#: inc/custom-controls/typography/class-typography-control.php:46
+msgid "OFF"
+msgstr "关"
+
+#: inc/custom-controls/typography/class-typography-control.php:45
+msgid "ON"
+msgstr "打开"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:443
+msgid "Change File"
+msgstr "更改文件"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:445
+msgid "Add File"
+msgstr "添加文件"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:430
+#: inc/custom-controls/repeater/class-control-repeater.php:435
+msgid "No File Selected"
+msgstr "未选择文件"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:407
+msgid "Change Image"
+msgstr "更改图像"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:409
+msgid "Add Image"
+msgstr "添加图片"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:404
+#: inc/custom-controls/repeater/class-control-repeater.php:469
+msgid "Remove"
+msgstr "移除"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:394
+#: inc/custom-controls/repeater/class-control-repeater.php:399
+msgid "No Image Selected"
+msgstr "未选择图像"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:369
+msgid "Hex Value"
+msgstr "十六进制值"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:239
+msgid "Limit: %s rows"
+msgstr "限制：%s 列"
+
+#: inc/custom-controls/typography/class-typography-control.php:65
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "无衬线字体"
+
+#: inc/custom-controls/typography/class-typography-control.php:64
+msgctxt "font style"
+msgid "Serif"
+msgstr "衬线字体"
+
+#: inc/custom-controls/typography/class-typography-control.php:63
+msgid "Thai"
+msgstr "泰语"
+
+#: inc/custom-controls/typography/class-typography-control.php:62
+msgid "Telugu"
+msgstr "泰鲁古语"
+
+#: inc/custom-controls/typography/class-typography-control.php:61
+msgid "Tamil"
+msgstr "泰米尔语"
+
+#: inc/custom-controls/typography/class-typography-control.php:60
+msgid "Gujarati"
+msgstr "古吉拉特语"
+
+#: inc/custom-controls/typography/class-typography-control.php:59
+msgid "Bengali"
+msgstr "孟加拉语"
+
+#: inc/custom-controls/typography/class-typography-control.php:58
+msgid "Arabic"
+msgstr "阿拉伯语"
+
+#: inc/custom-controls/typography/class-typography-control.php:57
+msgid "Hebrew"
+msgstr "希伯来语"
+
+#: inc/custom-controls/typography/class-typography-control.php:56
+msgid "Vietnamese"
+msgstr "越南语"
+
+#: inc/custom-controls/typography/class-typography-control.php:55
+msgid "Latin Extended"
+msgstr " 拉丁语（扩张）"
+
+#: inc/custom-controls/typography/class-typography-control.php:54
+msgid "Latin"
+msgstr "拉丁语"
+
+#: inc/custom-controls/typography/class-typography-control.php:53
+msgid "Khmer"
+msgstr "高绵语"
+
+#: inc/custom-controls/typography/class-typography-control.php:52
+msgid "Greek Extended"
+msgstr "希腊语（扩展）"
+
+#: inc/custom-controls/typography/class-typography-control.php:51
+msgid "Greek"
+msgstr "希腊语"
+
+#: inc/custom-controls/typography/class-typography-control.php:81
+msgid "Right"
+msgstr "右侧"
+
+#: inc/custom-controls/typography/class-typography-control.php:80
+msgid "Left"
+msgstr "左侧"
+
+#: inc/custom-controls/typography/class-typography-control.php:79
+msgid "Bottom"
+msgstr "底部"
+
+#: inc/custom-controls/typography/class-typography-control.php:78
+msgid "Top"
+msgstr "顶部"
+
+#: inc/custom-controls/typography/class-typography-control.php:77
+msgid "Lowercase"
+msgstr "小写"
+
+#: inc/custom-controls/typography/class-typography-control.php:76
+msgid "Uppercase"
+msgstr "大写"
+
+#: inc/custom-controls/typography/class-typography-control.php:75
+msgid "None"
+msgstr "无"
+
+#: inc/custom-controls/typography/class-typography-control.php:74
+msgid "Text Transform"
+msgstr "文本转换"
+
+#: inc/custom-controls/typography/class-typography-control.php:73
+msgid "Text Align"
+msgstr "文字对齐"
+
+#: inc/custom-controls/typography/class-typography-control.php:72
+msgid "Letter Spacing"
+msgstr "字母间距"
+
+#: inc/custom-controls/typography/class-typography-control.php:71
+msgid "Font Style"
+msgstr "字体样式"
+
+#: inc/custom-controls/typography/class-typography-control.php:70
+msgid "Line Height"
+msgstr "行高"
+
+#: inc/custom-controls/typography/class-typography-control.php:69
+msgid "Font Weight"
+msgstr "字体粗细"
+
+#: inc/custom-controls/typography/class-typography-control.php:67
+msgid "Font Family"
+msgstr "字体"
+
+#: inc/custom-controls/typography/class-typography-control.php:66
+msgctxt "font style"
+msgid "Monospace"
+msgstr "等宽字体"
+
+#: inc/custom-controls/typography/class-fonts.php:188
+#: inc/custom-controls/typography/class-typography-control.php:96
+msgid "Book 300 Italic"
+msgstr "书体 300 斜体"
+
+#: inc/custom-controls/typography/class-fonts.php:187
+#: inc/custom-controls/typography/class-typography-control.php:95
+msgid "Book 300"
+msgstr "书体 300 "
+
+#: inc/custom-controls/typography/class-fonts.php:186
+#: inc/custom-controls/typography/class-typography-control.php:94
+msgid "Light 200 Italic"
+msgstr "细 200 斜体"
+
+#: inc/custom-controls/typography/class-fonts.php:185
+#: inc/custom-controls/typography/class-typography-control.php:93
+msgid "Light 200"
+msgstr "细 200"
+
+#: inc/custom-controls/typography/class-fonts.php:184
+#: inc/custom-controls/typography/class-typography-control.php:92
+msgid "Ultra-Light 100 Italic"
+msgstr "特细 100 斜体"
+
+#: inc/custom-controls/typography/class-fonts.php:183
+#: inc/custom-controls/typography/class-typography-control.php:91
+msgid "Ultra-Light 100"
+msgstr "特细 100"
+
+#: inc/custom-controls/typography/class-typography-control.php:90
+msgid "Spacing"
+msgstr "间距"
+
+#: inc/custom-controls/typography/class-typography-control.php:89
+msgid "Height"
+msgstr "高度"
+
+#: inc/custom-controls/typography/class-typography-control.php:88
+msgid "Size"
+msgstr "尺寸"
+
+#: inc/custom-controls/typography/class-typography-control.php:87
+msgid "Style"
+msgstr "风格"
+
+#: inc/custom-controls/typography/class-typography-control.php:86
+msgid "Variant"
+msgstr "变体"
+
+#: inc/custom-controls/typography/class-typography-control.php:85
+msgid "Select a font-family"
+msgstr "选择字体"
+
+#: inc/custom-controls/typography/class-typography-control.php:84
+msgid "Color"
+msgstr "颜色"
+
+#: inc/custom-controls/typography/class-typography-control.php:83
+msgid "Justify"
+msgstr "两端对齐"
+
+#: inc/custom-controls/typography/class-typography-control.php:82
+msgid "Center"
+msgstr "中心"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "正更新插件 %1$s (%2$d/%3$d)"
+
+#: inc/extras.php:583
+msgid "\""
+msgstr "\""
+
+#: inc/custom-controls/typography/class-fonts.php:198
+#: inc/custom-controls/typography/class-typography-control.php:106
+msgid "Extra-Bold 800 Italic"
+msgstr "特粗 800 斜体"
+
+#: inc/custom-controls/typography/class-fonts.php:197
+#: inc/custom-controls/typography/class-typography-control.php:105
+msgid "Extra-Bold 800"
+msgstr "特粗 800"
+
+#: inc/custom-controls/typography/class-fonts.php:196
+#: inc/custom-controls/typography/class-typography-control.php:104
+msgid "Bold 700 Italic"
+msgstr "加粗 700 斜体"
+
+#: inc/custom-controls/typography/class-fonts.php:195
+#: inc/custom-controls/typography/class-typography-control.php:103
+msgid "Bold 700"
+msgstr "加粗 700"
+
+#: inc/custom-controls/typography/class-fonts.php:194
+#: inc/custom-controls/typography/class-typography-control.php:102
+msgid "Semi-Bold 600 Italic"
+msgstr "半粗 600 斜体"
+
+#: inc/custom-controls/typography/class-fonts.php:193
+#: inc/custom-controls/typography/class-typography-control.php:101
+msgid "Semi-Bold 600"
+msgstr " 半粗 600"
+
+#: inc/custom-controls/typography/class-fonts.php:192
+#: inc/custom-controls/typography/class-typography-control.php:100
+msgid "Medium 500 Italic"
+msgstr "中等 500 斜体"
+
+#: inc/custom-controls/typography/class-fonts.php:191
+#: inc/custom-controls/typography/class-typography-control.php:99
+msgid "Medium 500"
+msgstr " 中等 500 "
+
+#: inc/custom-controls/typography/class-fonts.php:190
+#: inc/custom-controls/typography/class-typography-control.php:98
+msgid "Normal 400 Italic"
+msgstr "普通 400 斜体"
+
+#: inc/custom-controls/typography/class-fonts.php:189
+#: inc/custom-controls/typography/class-typography-control.php:97
+msgid "Normal 400"
+msgstr "普通 400"
+
+#: inc/typography.php:28
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "off"
+
+#: inc/typography.php:27
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/typography.php:26
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "off"
+
+#: inc/template-functions.php:788
+msgid "https://wordpress.org/"
+msgstr "https://cn.wordpress.org/"
+
+#: inc/widgets.php:39
+msgid "Add footer four widgets here."
+msgstr "在页尾四增加小工具。"
+
+#: inc/widgets.php:34
+msgid "Add footer three widgets here."
+msgstr "在页尾三增加小工具。"
+
+#: inc/widgets.php:29
+msgid "Add footer two widgets here."
+msgstr "在页尾二增加小工具。"
+
+#: inc/widgets.php:24
+msgid "Add footer one widgets here."
+msgstr "在页尾一增加小工具。"
+
+#. Author of the theme
+#: style.css inc/template-functions.php:787
+#, gp-priority: low
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
